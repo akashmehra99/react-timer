@@ -1,0 +1,12 @@
+<testsuites name="jest tests" tests="4" failures="0" time="2.283">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-07-02T17:24:56" time="2.283" tests="4">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.095">
+    </testcase>
+    <testcase classname=" inital value is set via props" name=" inital value is set via props" time="0.016">
+    </testcase>
+    <testcase classname=" timer stops at 0" name=" timer stops at 0" time="0.009">
+    </testcase>
+    <testcase classname=" stop timer button stops the timer" name=" stop timer button stops the timer" time="0.019">
+    </testcase>
+  </testsuite>
+</testsuites>
